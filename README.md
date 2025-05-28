@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brenmacdonald-dev
 - 👀 I’m interested in virtual reality projects, game dev, microcontrollers
-- 🌱 I’m currently learning Unity 6's new features
+- 🌱 I’m currently learning Unreal 5's features
 - 💞️ I’m looking to collaborate on unity projects
 - 📫 How to reach me ping me here on github
 - 😄 Pronouns: he/him

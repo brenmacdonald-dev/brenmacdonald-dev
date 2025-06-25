@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 2 dogs and do improv comedy
 
-- Coming soon: https://github.com/CDCgov/vr-mine-rescue-training
+- Check out my work project here: https://github.com/CDCgov/vr-mine-rescue-training
 
 
 <!---

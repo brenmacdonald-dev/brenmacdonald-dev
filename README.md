@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brenmacdonald-dev
+- 👋 Hi, Bren Macdonald
 - 👀 I’m interested in virtual reality projects, game dev, microcontrollers
 - 🌱 I’m currently learning Unreal 5's features
 - 💞️ I’m looking to collaborate on unity projects
